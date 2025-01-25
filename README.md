@@ -14,7 +14,7 @@ This project implements a machine learning solution for predicting customer chur
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/customer-churn-prediction.git
+git clone https://github.com/Darwee4/customer-churn-prediction.git
 cd customer-churn-prediction
 ```
 
